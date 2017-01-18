@@ -1,0 +1,48 @@
+Intent Schema
+=============
+
+{
+  "intents": [
+    {
+      "intent": "GetRecentPapersIntent"
+    },
+    {
+      "intent": "GetNextEventIntent"
+    },
+     {
+      "intent": "GetNoIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
+
+
+Sample Utterances
+=================
+GetRecentPapersIntent a paper
+GetRecentPapersIntent an archive m. l. paper
+GetRecentPapersIntent tell me what new m. l. papers are on archive
+GetRecentPapersIntent ask archive m. l. what's new
+GetRecentPapersIntent what's on archive m. l.
+GetRecentPapersIntent ask archive m. l. to read recent machine learning papers
+GetRecentPapersIntent open archive m. l.
+GetRecentPapersIntent tell me about recent papers from archive m. l.
+
+GetNextEventIntent yes
+GetNextEventIntent yup
+GetNextEventIntent sure
+GetNextEventIntent yes please
+
+GetNoIntent no
+GetNoIntent nope
+GetNoIntent no thanks
+GetNoIntent no thank you
+
