@@ -1,5 +1,5 @@
 # arxivML
-###An Alexa skill to read latest machine learning papers from arXiv\\
+###An Alexa skill to read latest machine learning papers from arXiv
 
 ### [Skill on the Alexa Skill Store](https://www.amazon.com/dp/B01N9S7VXZ/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1484763556&sr=1-1&keywords=arxiv)
 ### [Watch a Demo](https://www.youtube.com/watch?v=1HYyhwE2EvQ)
