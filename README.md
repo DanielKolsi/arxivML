@@ -4,7 +4,7 @@
 ### [Skill on the Alexa Skill Store](https://www.amazon.com/dp/B01N9S7VXZ/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1484763556&sr=1-1&keywords=arxiv)
 ### [Watch a Demo](https://www.youtube.com/watch?v=1HYyhwE2EvQ)
 
-### [Read my blog post] ()
+### [Read my blog post] (https://medium.com/@aminert/arxivml-an-alexa-skill-to-read-latest-machine-learning-papers-from-arxiv-5da0562c7b79#.hzpgx914p)
 
 Keep up to date with the latest machine learning, computer vision, and AI papers from arxiv.org.  ArxivML crawls the 50 most recent papers and abstracts posted under cs.CV, cs.AI, cs.LG, cs.CL, cs.NE, stat.ML.
 Experience browsing papers in this exciting new way, no more missing out on interesting research. Start your morning with a fresh set of ideas and things to try. 
